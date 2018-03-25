@@ -1,0 +1,39 @@
+1. Reading CSV file using pandas library of python 
+2. Mapping international ,voice_mail_plan and churn fields of data to true and false.
+
+
+3. Divide data on basis of churn field of data as data_true and data_false
+4. Divide data_true and data_false into train and test data such that train/test = 0.8/0.2
+
+
+5. Making Gaussian classifier using  GaussianNB library 
+6. Fitting classifier using train_data and finding result for test_data
+7. Calculating TP,TN,FN,FP for calculating enteries for confusion matrix
+8. Calculate accuracy, precision and recall using enteries of confusion matrix
+
+
+9. Making SVM classifier using sklearn library 
+10. Fitting classifier using train_data and finding result for test_data
+11. Calculating TP,TN,FN,FP for calculating enteries for confusion matrix
+12. Calculate accuracy, precision and recall using enteries of confusion matrix
+
+
+13. Making Desicion tree classifier using sklearn library 
+14. Fitting classifier using train_data and finding result for test_data
+15. Calculating TP,TN,FN,FP for calculating enteries for confusion matrix
+16. Calculate accuracy, precision and recall using enteries of confusion matrix
+
+
+17. Comparing different classifier on basis of accuracy, precision and recall to give best classifier
+   
+ best classifier 'Decision Tree Classifier'**.
+ maximum performance achieved by the classifier:
+ 
+     ACCURACY:  0.889110889111
+     PRECISION:  0.676056338028
+     RECALL:  0.596273291925
+
+
+
+18. Visualization of the decision tree of best classifier 
+

@@ -1,0 +1,7 @@
+1. Reading CSV file using pandas library of python 
+2. Mapping international ,voice_mail_plan and churn fields of data to true and false.
+3. Divide data on basis of churn field of data as data_true and data_false
+4. Divide data_true and data_false into train and test data such that train/test = 0.8/0.2
+
+
+
